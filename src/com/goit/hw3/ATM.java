@@ -1,3 +1,4 @@
+package com.goit.hw3;
 
 // 44
 public class ATM {

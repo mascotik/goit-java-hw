@@ -3,8 +3,6 @@ package com.goit.hw3;
 public class QuadraticEquationSolver {
     public static void main(String[] args) {
 
-//        QuadraticEquationSolver sol = new QuadraticEquationSolver();
-//        System.out.println(sol.solve(1, -2, -3).toString());
     }
 
     public double[] solve(int a, int b, int c) {
